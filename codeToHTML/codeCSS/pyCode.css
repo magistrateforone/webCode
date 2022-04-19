@@ -1,0 +1,54 @@
+.codeKey {
+	font-weight: bold;
+	color: green;
+}
+
+.codeDefCnst {
+	font-weight: bold;
+}
+
+.codeBuiltIn {
+	color: darkred;
+}
+
+.codeWord {
+	color: red;
+}
+
+.codeNum {
+	color: blue;
+}
+
+.codeStr {
+	color: #aa0;
+}
+
+.codeDocstr {
+	color: #aa0;
+	font-weight: bold;
+}
+
+.codeComm {
+	color: brown;
+}
+
+.codeErr {
+	background-color: pink;
+}
+
+.codeLN {
+	color:'gray';
+	border-right: 3px solid green;
+	text-align: right;
+}
+
+.codeText {
+	vertical-align: top;
+}
+
+.python {
+	font-family: 'Courier New', monospace;
+	background-color: #eee;
+	border: 1px solid gray;
+	overflow: auto;
+}
